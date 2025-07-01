@@ -1,0 +1,49 @@
+* {
+  font-family: "Courier New", Courier, monospace, Arial;
+}
+
+h1 {
+  text-align: center;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: antiquewhite;
+  margin: 5px;
+}
+
+img {
+  display: block;
+  margin: 15px auto;
+  border: blanchedalmond solid;
+  border-radius: 5px;
+}
+
+.foods-list-hp {
+  background-color: #ffde21;
+  padding: 8px;
+  margin-top: 15px;
+  font-weight: bold;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+  display: flex;
+}
+
+/* Recipes */
+
+h2 {
+  margin-bottom: 5px;
+}
+
+div {
+  background-color: antiquewhite;
+  padding: 5px 15px;
+}
